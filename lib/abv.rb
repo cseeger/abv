@@ -1,3 +1,5 @@
+require 'interactor'
+
 module Abv
-  # Your code goes here...
+  require 'abv/interactors/filter_beverage'
 end
